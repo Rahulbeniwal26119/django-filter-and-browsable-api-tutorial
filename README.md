@@ -1,2 +1,2 @@
-# django-rest-and-backbone
+# django-rest-and-browsable-api-tutorial
 Integrating Front Backbone MVC with Django
